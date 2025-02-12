@@ -1,0 +1,1 @@
+If the connection address is opc.tcp://LAPTOP-RK2GHE4N:53530, you can connect to the server by entering either the IP address (e.g., 127.0.0.1) or the hostname (LAPTOP-RK2GHE4N), along with the port number (53530).
