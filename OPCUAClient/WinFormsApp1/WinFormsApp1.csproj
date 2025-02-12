@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibUA">
+      <HintPath>bin\Debug\net8.0-windows\LibUA.dll</HintPath>
+    </Reference>
+    <Reference Include="LibUA">
+      <HintPath>bin\Debug\net8.0-windows\LibUA.dll</HintPath>
+    </Reference>
+    <Reference Include="TestClient">
+      <HintPath>bin\Debug\net8.0-windows\TestClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,36 @@
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDemo.resources
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.frmDemo.resources
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Alex Project\OPC\OPCUAClient New\OPCUAClient\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
